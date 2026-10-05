@@ -1,7 +1,7 @@
 # 🚲 Bikeshare Analysis
 
 ## Overview
-Analyze bikeshare data to explore usage patterns by city, month, and day.
+Analyze bikeshare data to explore usage patterns by city, month, and day. 
 
 ## Features
 - Filter by city, month, day  
